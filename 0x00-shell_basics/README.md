@@ -9,4 +9,6 @@
 8. Bye bye Betty --> rm /tmp/holberton/betty
 9. Bye bye Holberton --> rm /tmp/holberton /tmp
 10. Back to the future --> cd -
-11. Lists --> ls -la . .. /.
+11. Lists --> ls -la . .. /boot
+12. File_type --> file /tmp/iammfile
+13. We are  symbol --> ln -s /bin/ls __ls__
