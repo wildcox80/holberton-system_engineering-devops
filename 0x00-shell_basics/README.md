@@ -11,4 +11,4 @@
 10. Back to the future --> cd -
 11. Lists --> ls -la . .. /boot
 12. File_type --> file /tmp/iammfile
-13. We are  symbol --> ln -s /bin/ls __ls__
+13. We are  symbol --> ln /bin/ls __ls__
