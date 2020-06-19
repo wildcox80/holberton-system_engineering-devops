@@ -6,7 +6,7 @@
 
 <p align="left"><video src="https://youtu.be/BC2neyc5GcI"></video></p>
 
-##Resources :notebook:
+### Resources :notebook:
 
 Read or watch:
 
