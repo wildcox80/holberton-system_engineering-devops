@@ -1,12 +1,13 @@
 <h1 align="center">0x04. Loops, conditions and parsing</h1>
-<p align="center"> <img src = "https://holbertonintranet.s3.amazonaws.com/uploads/medias/2019/6/b07e3333b1edfb9beed5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20200619%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200619T141746Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=be4877bf1f2d3c44415aa85f378da8f9fc757f8eba7d5c4815491430b66f958e" /></p>
+<p align="center"> <img src = "https://i1.wp.com/geniusitt.com/wp-content/uploads/2018/08/DevOpstools-1.png?fit=1024%2C543&ssl=1" /></p>
 
 
 ## Background Context :floppy_disk:
 
-<p align="left"><img src="https://youtu.be/BC2neyc5GcI" /></p>
+<p align="left"><video src="https://youtu.be/BC2neyc5GcI"></video></p>
 
-Resources
+##Resources :notebook:
+
 Read or watch:
 
 - [Loops Sample](https://denovatoanovato.net/wp-content/hostinger-page-cache/instalar-arch-linux/_index.html)
