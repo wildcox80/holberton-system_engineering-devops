@@ -121,10 +121,6 @@ Source for question 1 here
 - Call me maybe
 - OMG WHY ARE YOU SHOUTING?
 
-### Advanced :red_circle:
-- Textme
-- Pass LinkedIn technical interview level0
-
 ## Authors :busts_in_silhouette: 
 [@Wilder Rincón - Github](https://github.com/wildcox80)
 
