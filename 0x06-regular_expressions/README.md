@@ -82,6 +82,6 @@ Read or watch:
 [contributors-shield]: https://img.shields.io/github/contributors/wildcox80/holberton-system_engineering-devops.svg?style=flat-square
 [contributors-url]: https://github.com/wildcox80/holberton-system_engineering-devops/graphs/contributors
 [license-shield]: https://img.shields.io/github/license/wildcox80/holberton-system_engineering-devops.svg?style=flat-square
-[license-url]: https://github.com/wildcox80/holberton-system_engineering-devops/blob/master/LICENSE.txt
+[license-url]: https://github.com/wildcox80/holberton-system_engineering-devops/blob/master/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/wildsrincon
