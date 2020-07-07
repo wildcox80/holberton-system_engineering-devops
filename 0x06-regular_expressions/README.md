@@ -1,6 +1,5 @@
-<h1 align="center">0x05-processes_and_signals</h1>
-<p align="center"> <img src = "https://i1.wp.com/geniusitt.com/wp-content/uploads/2018/08/DevOpstools-1.png?fit=1024%2C543&ssl=1" /></p>
-
+<h1 align="center">0x06-regular_expressions</h1>
+<p align="center"> <img src = "https://www.rubyguides.com/wp-content/uploads/2015/06/ruby-regex.png" /></p>
 
 ## Backgorund Context
 
