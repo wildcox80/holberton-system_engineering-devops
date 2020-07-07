@@ -1,3 +1,6 @@
+<h1 align="center">0x06-regular_expressions</h1>
+<p align="center"> <img src = "https://www.rubyguides.com/wp-content/uploads/2015/06/ruby-regex.png" /></p>
+
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -6,15 +9,12 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][https://github.com/wildcox80/holberton-system_engineering-devops/graphs/contributors]
-[![Forks][forks-shield]][https://github.com/wildcox80/holberton-system_engineering-devops/network/members]
-[![Stargazers][stars-shield]][https://github.com/wildcox80/holberton-system_engineering-devops/stargazers]
-[![MIT License][license-shield]][https://github.com/wildcox80/holberton-system_engineering-devops/blob/master/LICENSE]
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/wildsrincon/]
+[![contribuitors](https://img.shields.io/github/contributors/wildcox80/holberton-system_engineering-devops?style=plastic)](https://github.com/wildcox80/0x06-regular_expressions/graphs/contributors)
+[![Stargazers](https://img.shields.io/github/stars/wildcox80/0x06-regular_expressions?style=plastic)](https://github.com/wildcox80/holberton-system_engineering-devops/stargazers)
+[![MIT License](https://img.shields.io/github/license/wildcox80/0x06-regular_expressions?style=plastic)](https://github.com/wildcox80/holberton-system_engineering-devops/blob/master/LICENSE)
+[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/wildsrincon/)
 
-<h1 align="center">0x06-regular_expressions</h1>
-<p align="center"> <img src = "https://www.rubyguides.com/wp-content/uploads/2015/06/ruby-regex.png" /></p>
-
+[![Twitter Wilder](https://img.shields.io/twitter/follow/WildsRincon?label=Wilder_Rincon&style=social)](https://twitter.com/WildsRincon)
 
 ## Backgorund Context
 
