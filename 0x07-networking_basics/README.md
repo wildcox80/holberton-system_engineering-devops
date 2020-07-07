@@ -112,12 +112,12 @@ Source for question 1 here
 ## Task :notebook:
 
 ### Mandatory :heavy_check_mark:
-- 0. Simply matching Holberton 
-- 1. Repetition Token #0
-- 2. Repetition Token #1
-- 3. Repetition Token #2
-- 4. Repetition Token #3
-- Not quite HBTN yet
+- 0. OSI model 
+- 1. Types of network
+- 2. MAC and IP address
+- 3. UDP and TCP
+- 4. TCP and UDP ports
+- 5. Is the host on the network
 - Call me maybe
 - OMG WHY ARE YOU SHOUTING?
 
