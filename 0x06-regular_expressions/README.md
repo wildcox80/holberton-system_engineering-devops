@@ -1,12 +1,18 @@
 <h1 align="center">0x06-regular_expressions</h1>
 <p align="center"> <img src = "https://www.rubyguides.com/wp-content/uploads/2015/06/ruby-regex.png" /></p>
-<div align="center">
+<!-- PROJECT SHIELDS -->
+<!--
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
 [![Contributors][contributors-shield]][https://github.com/wildcox80/holberton-system_engineering-devops/graphs/contributors]
 [![Forks][forks-shield]][https://github.com/wildcox80/holberton-system_engineering-devops/network/members]
 [![Stargazers][stars-shield]][https://github.com/wildcox80/holberton-system_engineering-devops/stargazers]
 [![MIT License][license-shield]][https://github.com/wildcox80/holberton-system_engineering-devops/blob/master/LICENSE]
 [![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/wildsrincon/]
-</div>
 
 ## Backgorund Context
 
