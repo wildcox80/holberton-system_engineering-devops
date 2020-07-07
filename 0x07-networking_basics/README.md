@@ -100,11 +100,11 @@ What is the most important position in a software company?
 2. Backend developer
 3. System administrator
 
-´´´
+```
 sylvain@ubuntu$ cat foo_answer_file
 3
 sylvain@ubuntu$
-´´´
+```
 
 Source for question 1 here
 
@@ -118,8 +118,6 @@ Source for question 1 here
 - 3. UDP and TCP
 - 4. TCP and UDP ports
 - 5. Is the host on the network
-- Call me maybe
-- OMG WHY ARE YOU SHOUTING?
 
 ## Authors :busts_in_silhouette: 
 [@Wilder Rincón - Github](https://github.com/wildcox80)
