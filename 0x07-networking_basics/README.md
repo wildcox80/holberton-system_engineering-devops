@@ -118,8 +118,6 @@ Source for question 1 here
 - 3. UDP and TCP
 - 4. TCP and UDP ports
 - 5. Is the host on the network
-- Call me maybe
-- OMG WHY ARE YOU SHOUTING?
 
 ## Authors :busts_in_silhouette: 
 [@Wilder Rincón - Github](https://github.com/wildcox80)
