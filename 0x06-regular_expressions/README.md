@@ -9,10 +9,9 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![contribuitors](https://img.shields.io/github/contributors/wildcox80/holberton-system_engineering-devops?style=plastic)](https://github.com/wildcox80/0x06-regular_expressions/graphs/contributors)
-[![Stargazers](https://img.shields.io/github/stars/wildcox80/0x06-regular_expressions?style=plastic)](https://github.com/wildcox80/holberton-system_engineering-devops/stargazers)
-[![MIT License](https://img.shields.io/github/license/wildcox80/0x06-regular_expressions?style=plastic)](https://github.com/wildcox80/holberton-system_engineering-devops/blob/master/LICENSE)
-[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/wildsrincon/)
+[![Contributors][contributors-shield]][contributors-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 [![Twitter Wilder](https://img.shields.io/twitter/follow/WildsRincon?label=Wilder_Rincon&style=social)](https://twitter.com/WildsRincon)
 
@@ -77,3 +76,12 @@ Read or watch:
 
 ## Authors :busts_in_silhouette: 
 [@Wilder Rincón - Github](https://github.com/wildcox80)
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/wildcox80/holberton-system_engineering-devops.svg?style=flat-square
+[contributors-url]: https://github.com/wildcox80/holberton-system_engineering-devops/graphs/contributors
+[license-shield]: https://img.shields.io/github/license/wildcox80/holberton-system_engineering-devops.svg?style=flat-square
+[license-url]: https://github.com/wildcox80/holberton-system_engineering-devops/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/wildsrincon
