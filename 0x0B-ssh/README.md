@@ -44,11 +44,6 @@ For reference:
 - [Internet Engineering Task Force](https://intranet.hbtn.io/rltoken/bH7JrEiKN4Q6-J58d9pAsw)
 - [Request for Comments](https://intranet.hbtn.io/rltoken/lDe2f7hVqQPPCNr5i2zE-g)
 
-man or help:
-
-- ssh
-- ssh-keygen
-- env
 
 ## Learning Objectives
 
