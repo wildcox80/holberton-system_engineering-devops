@@ -2,7 +2,6 @@
 # Install load balancer HAproxy with version 1.5 or greater; uses roundrobin algorithm
 sudo add-apt-repository -y ppa:vbernat/haproxy-1.5
 sudo apt-get -y update
-sudo apt-get -y dist-upgrade
 sudo apt-get install haproxy
 
 sed -i "s/ENABLED=0/ENABLED=1/" /etc/default/haproxy
