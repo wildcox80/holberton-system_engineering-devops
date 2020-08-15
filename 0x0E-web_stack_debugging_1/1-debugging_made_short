@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
-# script to link sites-enabled to sites-available and start nginx without running status
-
+# script to link sites-enabled to sites-available and start nginx
 sudo rm /etc/nginx/sites-enabled/default
 ln -s /etc/nginx/sites-available/default /etc/nginx/sites-enabled/default
 sudo pkill -1 -f "/usr/sbin/nginx"
