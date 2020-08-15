@@ -10,5 +10,5 @@ printf "\nfrontend firstbalance\n
 backend webservers\n\
 \tbalance roundrobin\n
 \tserver 1588-web-01 34.75.208.26:80\n
-\tserver 1588-web-02 54.147.163.239\n" >> /etc/haproxy/haproxy.cfg
+\tserver 1588-web-02 54.147.163.239:80\n" >> /etc/haproxy/haproxy.cfg
 sudo service haproxy start
