@@ -14,7 +14,7 @@ if __name__ == '__main__':
         userdict[uid] = []
         usernamedict[uid] = user.get("username")
     to_do = requests.get("https://jsonplaceholder.typicode.com/todos",
-                        verify=False).json()
+                         verify=False).json()
     for task in to_do:
         taskdict = {}
         uid = task.get("userId")
