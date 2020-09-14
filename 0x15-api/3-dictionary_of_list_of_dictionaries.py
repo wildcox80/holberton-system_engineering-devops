@@ -3,24 +3,36 @@
 
 import json
 import requests
+import sys
+
+base_url = 'https://jsonplaceholder.typicode.com/'
+
+
+def do_request():
+    '''Performs request'''
+    response = requests.get(base_url + 'users/')
+    if response.status_code != 200:
+        return print('Error: status_code:', response.status_code)
+    users = response.json()
+
+    response = requests.get(base_url + 'todos/')
+    if response.status_code != 200:
+        return print('Error: status_code:', response.status_code)
+    todos = response.json()
+
+    data = {}
+    for user in users:
+        user_todos = [todo for todo in todos
+                      if todo.get('userId') == user.get('id')]
+        user_todos = [{'username': user.get('username'),
+                       'task': todo.get('title'),
+                       'completed': todo.get('completed')}
+                      for todo in user_todos]
+        data[str(user.get('id'))] = user_todos
+
+    with open('todo_all_employees.json', 'w') as file:
+        json.dump(data, file)
+
 
 if __name__ == '__main__':
-    users = requests.get("https://jsonplaceholder.typicode.com/users",
-                         verify=False).json()
-    userdict = {}
-    usernamedict = {}
-    for user in users:
-        uid = user.get("id")
-        userdict[uid] = []
-        usernamedict[uid] = user.get("username")
-    to_do = requests.get("https://jsonplaceholder.typicode.com/todos",
-                         verify=False).json()
-    for task in to_do:
-        taskdict = {}
-        uid = task.get("userId")
-        taskdict["task"] = task.get('title')
-        taskdict["completed"] = task.get('completed')
-        taskdict["username"] = usernamedict.get(uid)
-        userdict.get(uid).append(taskdict)
-    with open("todo_all_employees.json", 'w') as jsonfile:
-        json.dump(userdict, jsonfile)
+    do_request()
