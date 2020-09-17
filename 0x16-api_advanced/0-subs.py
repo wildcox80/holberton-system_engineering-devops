@@ -7,7 +7,7 @@ BASE_URL = 'http://reddit.com/r/{}/about.json'
 
 def number_of_subscribers(subreddit):
     '''Gets number of reddit subscribers'''
-    headers = {'User-agent': 'Unix:0-subs:v1'}
+    headers = {'User-agent': 'API User by Wildcox80'}
     res = requests.get(BASE_URL.format(subreddit),
                        headers=headers)
     if res.status_code != 200:
