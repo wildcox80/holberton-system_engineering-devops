@@ -9,7 +9,7 @@ def number_of_subscribers(subreddit):
     '''Gets number of reddit subscribers'''
     headers = {'User-agent': 'Unix:0-subs:v1'}
     res = requests.get(BASE_URL.format(subreddit),
-                            headers=headers)
+                       headers=headers)
     if res.status_code != 200:
         return 0
     return res.json().get('data', {}).get('subscribers', 0)
