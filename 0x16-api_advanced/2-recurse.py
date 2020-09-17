@@ -8,7 +8,7 @@ BASE_URL = 'http://reddit.com/r/{}/hot.json'
 
 def recurse(subreddit, hot_list=[], after=None):
     '''Get ALL hot posts'''
-    headers = {'User-agent': 'Unix:0-subs:v1'}
+    headers = {'User-agent': 'API User by Wildcox80'}
     params = {'limit': 50}
     if isinstance(after, str):
         if after != "STOP":
